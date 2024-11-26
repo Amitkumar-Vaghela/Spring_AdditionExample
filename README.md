@@ -24,16 +24,16 @@ Make sure you have the following installed:
 
 ## Installation
 1. Clone the repository:  
-git clone https://github.com/Amitkumar-Vaghela/Spring_AdditionExample.git
+  git clone https://github.com/Amitkumar-Vaghela/Spring_AdditionExample.git
 
-2. Navigate to the project directory:
-cd Spring_AdditionExample
+2. Navigate to the project directory:   
+  cd Spring_AdditionExample
 
 3.Build the project using Maven:
-mvn clean install
+  mvn clean install
 
 4.Run the application:
-mvn spring-boot:run
+  mvn spring-boot:run
 
 ## Usage
 Once the application is running, you can access the addition API using any HTTP client (e.g., Postman or cURL).
